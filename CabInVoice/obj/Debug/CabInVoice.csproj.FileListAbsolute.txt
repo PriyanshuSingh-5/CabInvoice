@@ -1,0 +1,7 @@
+C:\Users\K.R.DHASHNIGA\source\repos\CabInVoice\CabInVoice\bin\Debug\CabInVoice.exe.config
+C:\Users\K.R.DHASHNIGA\source\repos\CabInVoice\CabInVoice\bin\Debug\CabInVoice.exe
+C:\Users\K.R.DHASHNIGA\source\repos\CabInVoice\CabInVoice\bin\Debug\CabInVoice.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\CabInVoice\CabInVoice\obj\Debug\CabInVoice.csprojAssemblyReference.cache
+C:\Users\K.R.DHASHNIGA\source\repos\CabInVoice\CabInVoice\obj\Debug\CabInVoice.csproj.CoreCompileInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\CabInVoice\CabInVoice\obj\Debug\CabInVoice.exe
+C:\Users\K.R.DHASHNIGA\source\repos\CabInVoice\CabInVoice\obj\Debug\CabInVoice.pdb
