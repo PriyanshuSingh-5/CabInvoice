@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace CabInVoice
 {
-    class InvoiceService
+    interface InvoiceService
     {
+        //Ride details
+        void AddRides(string userId, List<Ride> rides);
+        List<Ride> GetAllUserRides(string userId);
     }
 }
